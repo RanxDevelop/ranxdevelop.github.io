@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+<link rel="icon" href="images/favicon.png" type="image/x-icon" />
 
-You can use the [editor on GitHub](https://github.com/RanxDevelop/ranxdevelop.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# Overview
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Banner](/images/banner.png)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Riddle Cube is a puzzle game about speed.
 
-```markdown
-Syntax highlighted code block
+The cube is solved as soon as all surfaces are on the cube. Tap on a surface to move it to the cube. But watch out!, each tile moves a different tile away from the cube and makes it more difficult to solve one side.
 
-# Header 1
-## Header 2
-### Header 3
+Different sizes of cube are available which increase the challenge of the game.
+Solve the cube as fast as you can to buy a different look for your cube.
+  
+  
+  
+  
+# Play Store
 
-- Bulleted
-- List
+You can Pre-Register on the [Play Store](https://play.google.com/store/apps/details?id=de.Ranx.RiddleCube)
+or commit to the [Beta](https://play.google.com/apps/testing/de.Ranx.RiddleCube).
+<br />
+<br />
+<p align="center">
+  <img width="150" height="150" src="/images/icon.png">
+</p>
 
-1. Numbered
-2. List
+<br />
+<br />
+<br />
+<br />
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+###### Legal Information
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This game was made with Unity, using Unity Analytics and Unity Ads, for further information visit their [Privacy Policy](https://unity3d.com/legal/privacy-policy).
 
-### Jekyll Themes
+[Terms of Use](/terms-of-use) <br />
+[Imprint](/imprint)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RanxDevelop/ranxdevelop.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

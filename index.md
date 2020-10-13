@@ -17,8 +17,7 @@ Solve the cube as fast as you can to buy a different look for your cube.
   
 # Play Store
 
-You can Pre-Register on the [Play Store](https://play.google.com/store/apps/details?id=de.Ranx.RiddleCube)
-or commit to the [Beta](https://play.google.com/apps/testing/de.Ranx.RiddleCube).
+You can Pre-Register on the [Play Store](https://play.google.com/store/apps/details?id=de.Ranx.RiddleCube).
 <br />
 <br />
 <p align="center">
